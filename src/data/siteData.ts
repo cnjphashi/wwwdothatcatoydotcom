@@ -84,32 +84,32 @@ export const features = [
   {
     title: "日本市場を熟知",
     description: "日本の商習慣・品質基準を理解した提案力。",
-    icon: "ri-time-line",
+    icon: "ri-japan-line",
   },
   {
     title: "圧倒的な調達力",
     description: "1,000社以上の提携工場と義烏拠点。",
-    icon: "ri-user-star-line",
+    icon: "ri-shopping-bag-3-line",
   },
   {
     title: "玩具専門ネットワーク",
     description: "汕頭の専任スタッフが迅速に対応。",
-    icon: "ri-settings-3-line",
+    icon: "ri-gamepad-line",
   },
   {
     title: "徹底した品質管理",
     description: "QCチームによる安心の品質チェック。",
-    icon: "ri-group-line",
+    icon: "ri-shield-check-line",
   },
   {
     title: "物流・倉庫一体対応",
     description: "保管・梱包・配送までワンストップ。",
-    icon: "ri-restaurant-line",
+    icon: "ri-truck-line",
   },
   {
     title: "安心のお取引",
     description: "日本国内振込対応・企画から納品までサポート。",
-    icon: "ri-community-line",
+    icon: "ri-hand-heart-line",
   },
 ];
 
