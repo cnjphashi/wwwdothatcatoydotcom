@@ -84,7 +84,7 @@ export const features = [
   {
     title: "日本市場を熟知",
     description: "日本の商習慣・品質基準を理解した提案力。",
-    icon: "ri-japan-line",
+    icon: "ri-global-line",
   },
   {
     title: "圧倒的な調達力",
